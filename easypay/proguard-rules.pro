@@ -39,3 +39,9 @@
 -keep class com.alipay.tscenter.** { *; }
 -keep class com.ta.utdid2.** { *;}
 -keep class com.ut.device.** { *;}
+
+-keep class com.margin.easypay.PaymentManager.* {*;}
+-keep class com.margin.easypay.wxpay.EntryActivity
+-keep class com.margin.easypay.wxpay.OnWXPayResult.* {*;}
+-keep class com.margin.easypay.wxpay.WXChargeEntity.* {*;}
+-keep class com.margin.easypay.alipay.OnAlipayResult.* {*;}

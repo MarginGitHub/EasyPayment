@@ -1,4 +1,4 @@
-package com.margin.easypay.ali;
+package com.margin.easypay.alipay;
 
 /**
  * Created by Margin on 2018/1/14.
